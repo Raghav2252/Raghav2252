@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Raghav2252
-- 👀 I’m interested in Java script, HTML, CSS< Node JS, MongoDB
+- 👀 I’m interested in Java script, HTML, CSS, Node JS, MongoDB
 - 🌱 I’m currently learning Java Script
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
